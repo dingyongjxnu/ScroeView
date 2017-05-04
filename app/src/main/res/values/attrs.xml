@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+
+
+    <declare-styleable name="ScoreView">
+        <attr name="sportView_text_size" format="dimension"/>
+        <attr name="sportView_text_color" format="color"/>
+        <attr name="sportView_in_circle_color" format="color"/>
+        <attr name="sportView_out_circle_color" format="color"/>
+    </declare-styleable>
+</resources>
